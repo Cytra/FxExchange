@@ -1,0 +1,6 @@
+C:\Users\bc1729\Desktop\CSharpApps\FX_Exchange\FX_Exchange.Library\bin\Debug\FX_Exchange.Library.dll
+C:\Users\bc1729\Desktop\CSharpApps\FX_Exchange\FX_Exchange.Library\bin\Debug\FX_Exchange.Library.pdb
+C:\Users\bc1729\Desktop\CSharpApps\FX_Exchange\FX_Exchange.Library\obj\Debug\FX_Exchange.Library.csproj.CoreCompileInputs.cache
+C:\Users\bc1729\Desktop\CSharpApps\FX_Exchange\FX_Exchange.Library\obj\Debug\FX_Exchange.Library.dll
+C:\Users\bc1729\Desktop\CSharpApps\FX_Exchange\FX_Exchange.Library\obj\Debug\FX_Exchange.Library.pdb
+C:\Users\bc1729\Desktop\CSharpApps\FX_Exchange\FX_Exchange.Library\obj\Debug\FX_Exchange.Library.csprojAssemblyReference.cache
